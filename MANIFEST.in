@@ -1,0 +1,4 @@
+include README.md
+recursive-include hogandhomereport/static *
+recursive-include hogandhomereport/templates *
+recursive-include hogandhomereport/apps *
