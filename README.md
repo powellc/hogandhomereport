@@ -31,3 +31,22 @@ The libraries are:
   * libfreetype6-dev
   * libjpeg-dev
 
+Basics
+------
+
+This repository provides a very basic news budget management scheme.
+
+Effectively, you set up your paper, invite collaborators, finalize
+publications, solicit photos, and put it all together.
+
+The whole thing is a farce, but it's a farce built around honest family facts.
+Rather than dryly noting that your daughter is now living in Rwanda, why not
+make a mock interview where you prompt her to answer quesitons completely
+unrelated to Africa?
+
+Fake ads are a big part of this too. We should have ad placements and requests
+can go out for ads of a certain size and they rotate.
+
+For a layout, I'm thinking something almost like Google+ where we have a lot of
+little windows into content, with hilarious headlines and previews of the
+content beneath.
